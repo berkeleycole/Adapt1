@@ -260,8 +260,8 @@
 		"_classes": "",
 		"_layout": "full",
 		"title": "c-147",
-		"displayTitle": "How'd You Like the Quiz?",
-		"body": "Adapt offers a wide variety of assessment forms, not just multiple choice questions like the ones above. <br><br> We set the pass mark at 50% or above, provided four scoring bands each of which has some accompanying feedback. The four score bands were:<br><br><ul><li>0-40% (fail)</li><li>41-69%(fail)</li><li>70-99% (pass)</li><li>100% (perfect score)</li></ul><br>So, how did you do? Let’s find out.",
+		"displayTitle": "And those are the very basics of building an Adapt course, of course you can add assessment sections and many types of informational sections.",
+		"body": "",
 		"_pageLevelProgress": {
 			"_isEnabled": true
 		}

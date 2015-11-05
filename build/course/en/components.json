@@ -9,7 +9,7 @@
 		"title": "Introduction",
 		"displayTitle": "",
 		"body": "Once you get an idea of how Adapt courses are structured, it will be easy to get up and going using the framework.<br><br> Just like in textbooks, Adapt breaks information into groups so that it is easier to comprehend, and much easier to find. An Adapt course first breaks down into PAGES, which are similar to the main sections in a textbook. Each page then breaks down into ARTICLES, which could likened to chapters. In similar fashion, articles are broken down into BLOCKS which are in turn broken down into COMPONENTS. All of these levels will be looked at in greater detail.",
-		"instruction": "Scroll down to see each tier in the Adapt Course Structure, pay attention to the various ways Adapt can present and ask questions about information!",
+		"instruction": "Scroll down to see each tier in the Adapt course structure, pay attention to the various ways Adapt can present and ask questions about information!",
 		"_pageLevelProgress": {
 			"_isEnabled": true
 		}
@@ -51,7 +51,7 @@
 		"_id": "c-25",
 		"_parentId": "b-15",
 		"_type": "component",
-		"_component": "graphic",
+		"_component": "text",
 		"_classes": "",
 		"_layout": "left",
 		"title": "Graphic",
@@ -260,8 +260,8 @@
 		"_classes": "",
 		"_layout": "full",
 		"title": "c-147",
-		"displayTitle": "How'd You Like the Quiz?",
-		"body": "Adapt offers a wide variety of assessment forms, not just multiple choice questions like the ones above. <br><br> We set the pass mark at 50% or above, provided four scoring bands each of which has some accompanying feedback. The four score bands were:<br><br><ul><li>0-40% (fail)</li><li>41-69%(fail)</li><li>70-99% (pass)</li><li>100% (perfect score)</li></ul><br>So, how did you do? Let’s find out.",
+		"displayTitle": "And those are the very basics of building an Adapt course, of course you can add assessment sections and many types of informational sections.",
+		"body": "",
 		"_pageLevelProgress": {
 			"_isEnabled": true
 		}
