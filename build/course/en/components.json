@@ -1,0 +1,269 @@
+[
+	{
+		"_id": "c-05",
+		"_parentId": "b-05",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "",
+		"_layout": "full",
+		"title": "Introduction",
+		"displayTitle": "",
+		"body": "Once you get an idea of how Adapt courses are structured, it will be easy to get up and going using the framework.<br><br> Just like in textbooks, Adapt breaks information into groups so that it is easier to comprehend, and much easier to find. An Adapt course first breaks down into PAGES, which are similar to the main sections in a textbook. Each page then breaks down into ARTICLES, which could likened to chapters. In similar fashion, articles are broken down into BLOCKS which are in turn broken down into COMPONENTS. All of these levels will be looked at in greater detail.",
+		"instruction": "Scroll down to see each tier in the Adapt Course Structure, pay attention to the various ways Adapt can present and ask questions about information!",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "c-10",
+		"_parentId": "b-10",
+		"_type": "component",
+		"_component": "graphic",
+		"_classes": "",
+		"_layout": "left",
+		"title": "c-10",
+		"displayTitle": "Pages",
+		"body": "Pages in adapt are the most general breakdown of information in a course. They hold no specific information, but only show the general topics to be included in the course (For developers, this is the contentObjects level that will become the parents of article sections).",
+		"instruction": "",
+		"_graphic": {
+			"large": "https://images.unsplash.com/photo-1443527216320-7e744084f5a7?ixlib=rb-0.3.5&q=80&fm=jpg&s=6fbde3ee76bc8f49caf14c89778b2210",
+			"small": "https://images.unsplash.com/photo-1443527216320-7e744084f5a7?ixlib=rb-0.3.5&q=80&fm=jpg&s=6fbde3ee76bc8f49caf14c89778b2210",
+			"alt": "Placeholder graphic.",
+			"attribution": ""
+		}
+	},
+	{
+		"_id": "c-15",
+		"_parentId": "b-10",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "",
+		"_layout": "right",
+		"title": "Text components",
+		"displayTitle": "Articles",
+		"body": "The next general tier of information in the Adapt model is the Article. Articles, like pages, have no specific information and do not present information, but rather, they show the general types of information within a Page.",
+		"instruction": "",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "c-25",
+		"_parentId": "b-15",
+		"_type": "component",
+		"_component": "graphic",
+		"_classes": "",
+		"_layout": "left",
+		"title": "Graphic",
+		"displayTitle": "Blocks",
+		"body": "Blocks are the breakdown of articles, and are the most specific tier of organization that does not present information. Blocks would be like the bolded sub-chapter titles in most textbooks, they give learners a good idea of what information they can expect to read next.",
+		"instruction": "",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "c-28",
+		"_parentId": "b-15",
+		"_type": "component",
+		"_component": "graphic",
+		"_classes": "",
+		"_layout": "right",
+		"title": "Components",
+		"displayTitle": "Components",
+		"body": "Components are the information, interaction, and assessment pieces of an Adapt course. Each new box or frame of information or questions is its own component, which belongs to and resides within a block. <br><br> It is important to remember that, because of Adapt's tiered organization, it will break if there are any disruptions in the organization. This means that at no time can a component be without a block, or a block without an article or an article without a page.",
+		"instruction": "",
+		"_graphic": {
+			"large": "https://images.unsplash.com/photo-1441906363162-903afd0d3d52?ixlib=rb-0.3.5&q=80&fm=jpg&s=51953479f1ce3812d6fc2bc7d82ecea4",
+			"small": "https://images.unsplash.com/photo-1441906363162-903afd0d3d52?ixlib=rb-0.3.5&q=80&fm=jpg&s=51953479f1ce3812d6fc2bc7d82ecea4",
+			"alt": "Placeholder graphic.",
+			"attribution": ""
+		},
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "c-30",
+		"_parentId": "b-20",
+		"_type": "component",
+		"_component": "graphic",
+		"_classes": "",
+		"_layout": "full",
+		"title": "Introduction",
+		"displayTitle": "",
+		"body": "And that is how you structure an Adapt course -- not so bad, right?",
+		"instruction": "",
+		"_graphic": {
+			"large": "https://images.unsplash.com/photo-1444123697467-496eaa909980?ixlib=rb-0.3.5&q=80&fm=jpg&s=a9487535c7047fafa6f522c0984ead38",
+			"small": "https://images.unsplash.com/photo-1444123697467-496eaa909980?ixlib=rb-0.3.5&q=80&fm=jpg&s=a9487535c7047fafa6f522c0984ead38",
+			"alt": "Placeholder graphic.",
+			"attribution": ""
+		},
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "c-90",
+		"_parentId": "b-70",
+		"_type": "component",
+		"_component": "mcq",
+		"_classes": "",
+		"_layout": "full",
+		"_attempts": 1,
+		"_questionWeight": 1,
+		"_canShowModelAnswer": false,
+		"_shouldDisplayAttempts": false,
+		"_isRandom": true,
+		"_selectable": 4,
+		"title": "To scroll or not to scroll?",
+		"displayTitle": "Page, Article, Block, or Component?",
+		"body": "You pick up a large reference book and, without opening it, you first notice that the page edges are colored to help readers open to a specific section. What tier of information would this be in an Adapt course?",
+		"instruction": "Choose one option and select Submit.",
+		"_items": [
+			{
+				"text": "Pages",
+				"_shouldBeSelected": true
+			},
+			{
+				"text": "Articles",
+				"_shouldBeSelected": false
+			},
+			{
+				"text": "Blocks",
+				"_shouldBeSelected": false
+			},
+			{
+				"text": "Components",
+				"_shouldBeSelected": false
+			}
+		],
+		"_feedback": {
+			"correct": "correct - though it is a bit tricky to talk about Adapt pages being similar to main sections in a book, you saw through it.",
+			"_partlyCorrect": {
+				"final": "final"
+			},
+			"_incorrect": {
+				"final": "final"
+			}
+		},
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "c-100",
+		"_parentId": "b-80",
+		"_type": "component",
+		"_component": "mcq",
+		"_classes": "",
+		"_layout": "full",
+		"_attempts": 1,
+		"_questionWeight": 1,
+		"_canShowModelAnswer": false,
+		"_shouldDisplayAttempts": false,
+		"_isRandom": true,
+		"_selectable": 5,
+		"title": "More Structure",
+		"displayTitle": "More Structure",
+		"body": "Adapt's tiered information structure could most easily be represented by a:",
+		"instruction": "Choose one option and select Submit.",
+		"_items": [
+			{
+				"text": "circle",
+				"_shouldBeSelected": false
+			},
+			{
+				"text": "square",
+				"_shouldBeSelected": false
+			},
+			{
+				"text": "pentagon",
+				"_shouldBeSelected": false
+			},
+			{
+				"text": "pyramid",
+				"_shouldBeSelected": true
+			},
+			{
+				"text": "cone",
+				"_shouldBeSelected": false
+			}
+		],
+		"_feedback": {
+			"correct": "correct",
+			"_partlyCorrect": {
+				"final": "final"
+			},
+			"_incorrect": {
+				"final": "final"
+			}
+		},
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "c-130",
+		"_parentId": "b-95",
+		"_type": "component",
+		"_component": "mcq",
+		"_classes": "",
+		"_layout": "full",
+		"_attempts": 1,
+		"_questionWeight": 1,
+		"_canShowModelAnswer": false,
+		"_shouldDisplayAttempts": false,
+		"_isRandom": true,
+		"_selectable": 1,
+		"title": "Correct Adapt Information Structure",
+		"displayTitle": "Correct Adapt Information Structure",
+		"body": "Which sequence of letters shows the correct Adapt organization, from most general to most specific.",
+		"instruction": "Choose an option and select Submit.",
+		"_items": [
+			{
+				"text": "P-C-B-A",
+				"_shouldBeSelected": false
+			},
+			{
+				"text": "P-A-B-C",
+				"_shouldBeSelected": true
+			},
+			{
+				"text": "C-B-A-P",
+				"_shouldBeSelected": false
+			},
+			{
+				"text": "A-C-B-P",
+				"_shouldBeSelected": false
+			}
+		],
+		"_feedback": {
+			"correct": "correct",
+			"_partlyCorrect": {
+				"final": "final"
+			},
+			"_incorrect": {
+				"final": "final"
+			}
+		},
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "c-147",
+		"_parentId": "b-105",
+		"_type": "component",
+		"_component": "text",
+		"_classes": "",
+		"_layout": "full",
+		"title": "c-147",
+		"displayTitle": "How'd You Like the Quiz?",
+		"body": "Adapt offers a wide variety of assessment forms, not just multiple choice questions like the ones above. <br><br> We set the pass mark at 50% or above, provided four scoring bands each of which has some accompanying feedback. The four score bands were:<br><br><ul><li>0-40% (fail)</li><li>41-69%(fail)</li><li>70-99% (pass)</li><li>100% (perfect score)</li></ul><br>So, how did you do? Let’s find out.",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	}
+]

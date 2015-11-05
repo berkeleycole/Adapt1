@@ -1,0 +1,34 @@
+[
+	{
+		"_id": "co-05",
+		"_parentId": "course",
+		"_type": "page",
+		"_classes": "",
+		"title": "Presentation Components",
+		"displayTitle": "Understading Adapt Structure",
+		"pageBody": "How to structure, organize, and breakdown an Adapt Project",
+		"body": "",
+		"linkText": "View",
+		"durationLabel": "Duration:",
+		"duration": "2 mins",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	},
+	{
+		"_id": "co-15",
+		"_parentId": "course",
+		"_type": "page",
+		"_classes": "assessment",
+		"title": "Adapt Assessment",
+		"displayTitle": "Example Quiz",
+		"pageBody": "Experience a quiz -- Adapt Style",
+		"body": "",
+		"linkText": "View",
+		"durationLabel": "Duration:",
+		"duration": "2 mins",
+		"_pageLevelProgress": {
+			"_isEnabled": true
+		}
+	}
+]
